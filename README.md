@@ -90,5 +90,6 @@ Detta behöver inte vara något avancerat du bygger, utan mer en övning för at
 * [Dogs](https://santosnr6.github.io/Data/dogs.json)
 * [Pokemons](https://santosnr6.github.io/Data/pokemons.json)
 * [Pokemons 2](https://santosnr6.github.io/Data/pokemons2.json)
+* [Pokemon Images](https://santosnr6.github.io/Data/pokemonimages.json)
 * [Sinus Products](https://santosnr6.github.io/Data/sinus_products.json)
 * [Space](https://santosnr6.github.io/Data/space.json)
